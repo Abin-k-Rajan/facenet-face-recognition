@@ -192,7 +192,7 @@ def welcome_users(identities):
 
 if __name__ == "__main__":
     database = prepare_database()
-    webcam_face_recognizer(database)
+    # webcam_face_recognizer(database)
 
 # ### References:
 # 
